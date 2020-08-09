@@ -48,7 +48,7 @@ class Organizador {
  	 	
  	-copiaFoto(img) - tambem na classe Fotografia
  	-quantasFotos(String e)
-***/
+**/
 	
 	private void incrLivre(int valor){
 		livre = livre+valor;
